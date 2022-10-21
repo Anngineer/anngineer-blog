@@ -49,6 +49,13 @@ body.dark a {
   color: #d4dcdd;
 }
 
+#sun-icon,
+i.sun.icon {
+  position: relative;
+  bottom: -1px;
+  right: -2px;
+}
+
 .banner {
   background-repeat: no-repeat;
   width: 100%;
@@ -97,11 +104,6 @@ body.dark a {
   font-size: medium;
   border-radius: 50px;
   border: none;
-}
-.banner button.theme-button #sun-icon {
-  position: relative;
-  bottom: -1px;
-  right: -2px;
 }
 .banner button.theme-button:hover {
   cursor: pointer;
@@ -398,6 +400,9 @@ body.dark a {
 .App.dark .blog-info-page {
   color: #eff3f3;
   background-color: #212121;
+}
+.App.dark .blog-info-page p.body {
+  color: #e6e5e5;
 }
 
 .blog-home-nav {

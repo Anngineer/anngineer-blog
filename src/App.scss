@@ -49,6 +49,14 @@ body.dark {
   }
 }
 
+// Sun icon in the banner and other areas
+#sun-icon,
+i.sun.icon {
+  position: relative;
+  bottom: -1px;
+  right: -2px;
+}
+
 // --------------------------
 // Home --------------------
 
@@ -104,11 +112,7 @@ body.dark {
     font-size: medium;
     border-radius: 50px;
     border: none;
-    #sun-icon {
-      position: relative;
-      bottom: -1px;
-      right: -2px;
-    }
+
     &:hover {
       cursor: pointer;
       // background-color: pink;
@@ -465,6 +469,10 @@ body.dark {
 .App.dark .blog-info-page {
   color: #eff3f3;
   background-color: #212121;
+
+  p.body {
+    color: #e6e5e5;
+  }
 }
 .blog-home-nav {
   padding: 1rem;
