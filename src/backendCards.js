@@ -10,6 +10,7 @@ const backendCards = [
     image: TwistedSessionFlyerTemplate,
     blurb: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     tags: ["sci fi"],
+    date: "10/21/22",
     key: 1,
     id: 1,
   },
@@ -22,7 +23,7 @@ const backendCards = [
 
     image: retrogirl6a,
     tags: ["fantasy"],
-
+    date: "10/21/22",
     key: 2,
     id: 2,
   },
@@ -33,6 +34,7 @@ const backendCards = [
     blurb: "Excepteur sint occaecat cupidatat non proident...",
 
     image: spacetravel1,
+    date: "10/21/22",
     tags: ["sci fi"],
 
     key: 3,
@@ -48,7 +50,7 @@ const backendCards = [
 
     image: WatercolorPoppy1,
     tags: ["nonfiction"],
-
+    date: "10/21/22",
     key: 4,
     id: 4,
   },

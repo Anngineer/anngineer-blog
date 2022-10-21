@@ -37,6 +37,7 @@ const BlogsInfo = ({ theme, setTheme }) => {
 
         <img src={backendCards[id - 1].image} alt={backendCards[id - 1].alt} />
         <h4>by {backendCards[id - 1].author}</h4>
+        <h5 className="date">{backendCards[id - 1].date}</h5>
 
         <div className="blog-info-blog-body">
           {backendBlogBody[id - 1].body}

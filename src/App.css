@@ -456,7 +456,11 @@ i.sun.icon {
   margin-left: 3rem;
 }
 .blog-info-page .blog-section h4 {
+  margin-bottom: 1rem;
+}
+.blog-info-page .blog-section h5.date {
   margin-bottom: 4rem;
+  margin-top: 0;
 }
 .blog-info-page .blog-section img {
   width: 40%;
