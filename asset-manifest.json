@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anngineer-blog/static/css/main.0016df45.css",
-    "main.js": "/anngineer-blog/static/js/main.81166624.js",
+    "main.css": "/anngineer-blog/static/css/main.933b3cdf.css",
+    "main.js": "/anngineer-blog/static/js/main.937f0137.js",
     "static/media/tokyo-glitch-2.png": "/anngineer-blog/static/media/tokyo-glitch-2.eccf02d24ff744d0e5e6.png",
     "static/media/WatercolorPoppy1.png": "/anngineer-blog/static/media/WatercolorPoppy1.aac2555245fec5cf69bc.png",
     "static/media/white-wave-1.png": "/anngineer-blog/static/media/white-wave-1.c6c138c3bfa2e273a213.png",
@@ -12,11 +12,11 @@
     "static/media/retrogirl6a.jpg": "/anngineer-blog/static/media/retrogirl6a.b80526eabe7dd9598c93.jpg",
     "static/media/spacetravel1.jpg": "/anngineer-blog/static/media/spacetravel1.67283892e3f9b023e264.jpg",
     "index.html": "/anngineer-blog/index.html",
-    "main.0016df45.css.map": "/anngineer-blog/static/css/main.0016df45.css.map",
-    "main.81166624.js.map": "/anngineer-blog/static/js/main.81166624.js.map"
+    "main.933b3cdf.css.map": "/anngineer-blog/static/css/main.933b3cdf.css.map",
+    "main.937f0137.js.map": "/anngineer-blog/static/js/main.937f0137.js.map"
   },
   "entrypoints": [
-    "static/css/main.0016df45.css",
-    "static/js/main.81166624.js"
+    "static/css/main.933b3cdf.css",
+    "static/js/main.937f0137.js"
   ]
 }
