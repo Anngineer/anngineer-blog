@@ -104,6 +104,11 @@ body.dark {
     font-size: medium;
     border-radius: 50px;
     border: none;
+    #sun-icon {
+      position: relative;
+      bottom: -1px;
+      right: -2px;
+    }
     &:hover {
       cursor: pointer;
       // background-color: pink;

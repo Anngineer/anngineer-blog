@@ -98,6 +98,11 @@ body.dark a {
   border-radius: 50px;
   border: none;
 }
+.banner button.theme-button #sun-icon {
+  position: relative;
+  bottom: -1px;
+  right: -2px;
+}
 .banner button.theme-button:hover {
   cursor: pointer;
 }

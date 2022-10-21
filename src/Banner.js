@@ -79,7 +79,7 @@ const Banner = ({ theme, setTheme }) => {
                   className="theme-button"
                   onClick={() => handleThemeButton()}
                 >
-                  <Icon name="sun" />
+                  <Icon name="sun" id="sun-icon" />
                 </button>
               </div>
             </div>
@@ -92,7 +92,7 @@ const Banner = ({ theme, setTheme }) => {
                 className="theme-button"
                 onClick={() => handleThemeButton()}
               >
-                <Icon name="sun" />
+                <Icon name="sun" id="sun-icon" />
               </button>
             </div>
 
