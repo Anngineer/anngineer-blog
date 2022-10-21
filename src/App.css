@@ -70,6 +70,7 @@ i.sun.icon {
   padding-top: 6rem;
   margin-left: 10rem;
   font-size: 3.8rem;
+  color: #e8eded;
 }
 .banner .lower-banner {
   width: 100%;
@@ -184,7 +185,7 @@ i.sun.icon {
   background-color: rgba(23, 24, 29, 0.7254901961);
 }
 .banner.dark .home-link-list a {
-  color: #d4dcdd;
+  color: #dee2e2;
 }
 .banner.dark button.theme-button {
   background-color: white;
