@@ -70,7 +70,6 @@ i.sun.icon {
   padding-top: 6rem;
   margin-left: 10rem;
   font-size: 3.8rem;
-  color: #e8eded;
 }
 .banner .lower-banner {
   width: 100%;
@@ -114,6 +113,11 @@ i.sun.icon {
   width: 100vw;
   position: absolute;
   bottom: 1rem;
+}
+
+.banner.dark h1 {
+  color: #e8eded;
+  color: #f3f6f6;
 }
 
 @media (max-width: 670px) {
@@ -271,6 +275,8 @@ i.sun.icon {
   max-width: 500px;
   min-width: 300px;
   width: 100%;
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .author-body .author-container .author-description {
   max-width: 85%;

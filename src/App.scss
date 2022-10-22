@@ -76,7 +76,7 @@ i.sun.icon {
     // padding-bottom: 6rem;
     margin-left: 10rem;
     font-size: 3.8rem;
-    color: #e8eded;
+    // color: #e8eded;
   }
   .lower-banner {
     width: 100%;
@@ -126,6 +126,13 @@ i.sun.icon {
     // margin-bottom: 2rem;
     position: absolute;
     bottom: 1rem;
+  }
+}
+
+.banner.dark {
+  h1 {
+    color: #e8eded;
+    color: #f3f6f6;
   }
 }
 
@@ -317,6 +324,8 @@ i.sun.icon {
         max-width: 500px;
         min-width: 300px;
         width: 100%;
+        border-radius: 6px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
       }
     }
     .author-description {
