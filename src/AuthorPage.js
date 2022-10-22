@@ -13,7 +13,7 @@ const AuthorPage = ({ theme, setTheme }) => {
           <div className="image-container">
             <img
               src={authorphoto9}
-              alt="a vintage illustration of a girl with dark hair"
+              alt="smiling, brunette woman in a gray suit and glasses"
             />
           </div>
           <div className="author-description">
