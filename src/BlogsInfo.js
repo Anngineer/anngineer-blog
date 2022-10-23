@@ -13,7 +13,7 @@ const BlogsInfo = ({ theme, setTheme }) => {
   return (
     <div className="blog-info-page">
       <nav className="blog-home-nav">
-        <Link to="/">Writing Blog</Link>
+        <Link to="/">Anngineer Blog</Link>
         {theme === "dark" && (
           <button
             className="theme-button dark"

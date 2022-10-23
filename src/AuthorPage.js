@@ -1,7 +1,7 @@
 import Banner from "./Banner";
-import retrogirl2a from "./images/retrogirl2a.jpg";
+// import retrogirl2a from "./images/retrogirl2a.jpg";
 import authorphoto9 from "./images/authorphoto9.jpg";
-import authorphoto10 from "./images/authorphoto10.jpg";
+// import authorphoto10 from "./images/authorphoto10.jpg";
 
 const AuthorPage = ({ theme, setTheme }) => {
   return (
