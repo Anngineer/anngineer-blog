@@ -1,24 +1,22 @@
 {
   "files": {
     "main.css": "/anngineer-blog/static/css/main.d78974e4.css",
-    "main.js": "/anngineer-blog/static/js/main.4b1b981c.js",
-    "static/media/authorphoto9.jpg": "/anngineer-blog/static/media/authorphoto9.9751086285dc472961cd.jpg",
+    "main.js": "/anngineer-blog/static/js/main.bc2b184e.js",
     "static/media/authorphoto10.jpg": "/anngineer-blog/static/media/authorphoto10.e5ae3db5ce51b6375b24.jpg",
     "static/media/tokyo-glitch-2.png": "/anngineer-blog/static/media/tokyo-glitch-2.eccf02d24ff744d0e5e6.png",
     "static/media/WatercolorPoppy1.png": "/anngineer-blog/static/media/WatercolorPoppy1.aac2555245fec5cf69bc.png",
     "static/media/white-wave-1.png": "/anngineer-blog/static/media/white-wave-1.c6c138c3bfa2e273a213.png",
     "static/media/tokyo-glitch-5.jpg": "/anngineer-blog/static/media/tokyo-glitch-5.a7830b9abb6451261e82.jpg",
-    "static/media/retrogirl2a.jpg": "/anngineer-blog/static/media/retrogirl2a.ff22e70a8be0d54f5da5.jpg",
     "static/media/06.jpg": "/anngineer-blog/static/media/06.1bbfd5af3e352e966cc3.jpg",
     "static/media/TwistedSessionFlyerTemplate.jpg": "/anngineer-blog/static/media/TwistedSessionFlyerTemplate.ed87ee6a472379b7bc47.jpg",
     "static/media/retrogirl6a.jpg": "/anngineer-blog/static/media/retrogirl6a.b80526eabe7dd9598c93.jpg",
     "static/media/spacetravel1.jpg": "/anngineer-blog/static/media/spacetravel1.67283892e3f9b023e264.jpg",
     "index.html": "/anngineer-blog/index.html",
     "main.d78974e4.css.map": "/anngineer-blog/static/css/main.d78974e4.css.map",
-    "main.4b1b981c.js.map": "/anngineer-blog/static/js/main.4b1b981c.js.map"
+    "main.bc2b184e.js.map": "/anngineer-blog/static/js/main.bc2b184e.js.map"
   },
   "entrypoints": [
     "static/css/main.d78974e4.css",
-    "static/js/main.4b1b981c.js"
+    "static/js/main.bc2b184e.js"
   ]
 }
