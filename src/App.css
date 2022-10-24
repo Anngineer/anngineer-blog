@@ -257,7 +257,6 @@ i.sun.icon {
 }
 
 .author-body {
-  height: 200vh;
   padding-left: 5rem;
   padding-right: 5rem;
   padding-top: 3rem;
@@ -280,7 +279,11 @@ i.sun.icon {
 }
 .author-body .author-container .author-description {
   max-width: 85%;
+  padding-bottom: 6rem;
   text-align: justify;
+}
+.author-body .author-container .author-description a {
+  text-decoration: underline;
 }
 
 @media (max-width: 863px) {
