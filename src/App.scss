@@ -198,6 +198,11 @@ i.sun.icon {
     }
   }
 }
+@media (min-width: 471px) {
+  .small-home-link-list {
+    display: none;
+  }
+}
 
 @media (max-width: 500px) {
   .banner.dark {

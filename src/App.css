@@ -172,6 +172,11 @@ i.sun.icon {
     border-bottom: #e0e0e0 solid 2px;
   }
 }
+@media (min-width: 471px) {
+  .small-home-link-list {
+    display: none;
+  }
+}
 @media (max-width: 500px) {
   .banner.dark {
     background-image: url("./images/tokyo-glitch-2.png");
